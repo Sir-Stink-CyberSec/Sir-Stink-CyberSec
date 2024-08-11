@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sir-Stink
+- 👋 Hi, I’m @Sir-Stink // Josh Marso
 - 👀 My interest's include Camping and Mounting Biking.
 - 🌱 I’m currently learning CyberSecurity at Deakin.
 - 💞️ I’m looking to collaborate on starter CyberSecurity Projects to expand my protfolio.
